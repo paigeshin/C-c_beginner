@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556474307 source:/Users/grosso/Desktop/language-c/Test/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1556474889 source:/Users/grosso/Desktop/language-c/Test/second.c
+	<stdio.h>
+

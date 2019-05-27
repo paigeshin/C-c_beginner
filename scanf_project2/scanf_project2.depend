@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556726668 source:/Users/grosso/Desktop/language-c/scanf_project2/main.c
+	<stdio.h>
+	<stdlib.h>
+
