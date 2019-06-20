@@ -1,0 +1,3 @@
+/Users/grosso/Desktop/programming_source/C - c_beginner/just being curious proejct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/grosso/Desktop/programming_source/C - c_beginner/just being curious proejct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/grosso/Desktop/programming_source/C - c_beginner/just being curious proejct/cmake-build-debug/CMakeFiles/just_being_curious_proejct.dir
